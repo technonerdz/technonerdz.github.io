@@ -1,6 +1,0 @@
----
-published: false
-title: sdr
-layout: post
----
-sd
